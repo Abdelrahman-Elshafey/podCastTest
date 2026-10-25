@@ -7,4 +7,4 @@ jobs:
    - name: checkout Repo
      uses: actions/checkout@v3
    - name: Run Feed Generator
-     uses: Abdelrahman-Elshafey/PodCastGenerator@main
+     uses: Abdelrahman-Elshafey/podCastGenerator@main
